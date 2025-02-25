@@ -19,15 +19,6 @@ Note: If you are using PostgreSQL then restore the <a href="https://github.com/a
 
 ![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
 
-<!-- ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
 
 ## Database and Tools
 
